@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **The intersection of Agentic AI and Cloud Infrastructure to build autonomous systems.**
 
-- 👯 I’m currently working on **Optimizing high-throughput Data Pipelines and architecting Serverless AI Applications that scale.**
+- 👯 I’m currently working on **Exploring high-throughput data pipelines and serverless AI architectures.**
 
 - 💬 Ask me about **Python, R, Machine Learning & AI fundamentals**
 
