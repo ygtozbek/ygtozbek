@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yiğit ÖZBEK</h1>
 <h3 align="center">💻 AI/ML Enthusiast | Learn & Build 📊 Data + Code + Impact</h3>
 
-- 🔭 I’m studying **Artificial Intelligence Engineering**
+- 🔭 I’m studying **Computer Science at North Dakota State Univesity**
 
 - 🌱 I’m currently learning **The intersection of Agentic AI and Cloud Infrastructure to build autonomous systems.**
 
