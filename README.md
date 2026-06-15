@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yiğit ÖZBEK</h1>
+<h1 align="center">Hi 👋, I'm Yigit OZBEK</h1>
 <h3 align="center">💻 AI/ML Enthusiast | Learn & Build 📊 Data + Code + Impact</h3>
 
 - 🔭 I’m studying **Computer Science at North Dakota State Univesity**
